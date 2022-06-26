@@ -4,7 +4,7 @@
 ## Description
 
 
-Picstagram is photo uploading platform which has some features such as:
+PicShare is photo uploading platform which has some features such as:
 
 - Display all uploaded photo to all the users.
 - Show profile of each user.
