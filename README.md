@@ -18,8 +18,7 @@ PicShare is photo uploading platform which has some features such as:
 
 - [ReactJS](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com)
-- [React Router v6](https://reactrouter.com/)
-- [Firebase v9](https://firebase.google.com/docs)
+- [Firebase](https://firebase.google.com/docs)
 
 ## Screenshots
 
